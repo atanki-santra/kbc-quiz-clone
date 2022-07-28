@@ -1,0 +1,20 @@
+<1>:Solicitor General:Attorney General:Cabinet Secretary:Chief Justice
+<2>:Sultan Jahan Begum:Maulana Abul Kalam Azad:Sir Syed Ahmad Khan:Mir Usman Ali Khan
+<3>:Daphne Akhurst:Margaret Court:Evonne Goolagong Cawley:Lesley Bowrey
+<4>:Maurya dynasty:Shunga dynasty:Pala dynasty:Chera dynasty
+<5>:Benazir Bhutto:Aisha Chaudhary:Greta Thunberg:Malala Yousafzai
+<6>:The Great Indian Novel:A Suitable Boy:A Fine Balance:The Golden Gate
+<7>:John Bardeen:Frederick Sanger:Linus Pauling:Niels Bohr
+<8>:Neville Vincent:J R D Tata:Henri Pequet:Maurice Guillax
+<9>:Alamgir II:Muhammad Ibrahim:Muhammad Shah:Farrukh-Siyar
+<10>:Pinarayi Vijayan:Manik Sarkar:Nitish Kumar:Ashok Gehlot
+<11>:Marie Curie & Irene Joliot Curie:JJ Thomas & George Paget Thomson:Niels Bohr & Aage N. Bohr:Hermann Emil Fishcer & Hans Fischer
+<12>:Rameshbabu Praggnanandhaa:Abhimanyu Mishra:Beth Harmon:Gukesh Dommaraju
+<13>:Galicia:Ankara:Tabsor:Gallipoli
+<14>:Nanga Parbat:Annapurna:Gasherbrum:Shishapangma
+<15>:Tipu Sulta:Haider Ali:Aurangzeb:Baji Rao II
+<16>:Golf:Polo:Yachting:Ice Hockey
+<17>:Jakarta:Kuala Lumpur:Singapore:New York
+<18>:Shiny Abraham:Mercy Kuttan:P T Usha:Jyotirmoyee Sikdar
+<19>:Kim Yun-mi:Marjorie Gestring:Inge Sorensen:Hend Zaza
+<20>:Golaknath case:Ashok Kumar case:Shah Bano case:Kesavananda Bharati Case

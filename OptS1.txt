@@ -1,0 +1,20 @@
+<1>:Sep 8:Nov 28:May 2:Sep 22
+<2>:Tamil:Hindi:Malayalam:Telugu
+<3>:Ujjain, Purl, Prayag, Haridwar:Prayag, Haridwar, Ujjain, Nasik:Rameshwaram, Purl, Badrinath, Dwarika:Chittakoot, Ujjain, Prayag, Haridwar
+<4>:Islam:Hinduism:Buddhism:Jainism
+<5>:June 26:Oct 14:Nov 15:Dec 2
+<6>:'Dignity for all - focus on women':'Dignity for all - focus on Children':'Focus on health for all':'Nourishment for all-focus on children'
+<7>:Teachers' Day:National Integration Day:World Tourism Day:International Literacy Day
+<8>:Khushwant Singh:Prem Chand:Jayashankar Prasad:Amrit Lal Nagar
+<9>:Smt. Indira Gandhi:Pt. Jawaharlal Nehru:Mahatma Gandhi:Lal Bahadur Shastri
+<10>:Vishakadatta:Valmiki:Banabhatta:Kalidas
+<11>:birth of Jesus Christ:birth of St. Peter:crucification of Jesus Christ:rebirth of Jesus Christ
+<12>:Mukesh Kumar:Narendra Mohan:Upendra Nath:Nirad C. Choudhary
+<13>:22nd April:26th  July:29th August:2nd October
+<14>:Apr 7:Mar 6:Mat 15:Apr 28
+<15>:Karnataka:Kerala:Tamil Nadu:Andhra Pradesh
+<16>:Duryodhana:Arjuna:Yudhishthir:Bhima
+<17>:Id-ul-Zuha:Id-ul-Fitr:Bakri-id:Moharram
+<18>:Maharshi Karve:Bal Gangadhar Tilak:K.M. Munshi:Sanjay Gandhi
+<19>:Magha:Chaitra:Ashadha:Vaishakha
+<20>:Kathakali:Mohiniattam:Ottan Thullal:Yaksha Gana

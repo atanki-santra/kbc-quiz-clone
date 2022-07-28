@@ -1,0 +1,20 @@
+<1>:Viceregal Lodge:Gorton Castle:Barnes Court:Cecil Hotel
+<2>:Don Felipe:Don Henrique:Don Carlos:Don Francisco
+<3>:Nawroz Mangal:Mohammad Hafeez:Mohammad Shahzad:Shakib Al Hasan
+<4>:Truth Seekers:Non – Violents:Passive Resisters:Non Co-operators
+<5>:Baqa Jilani:Commandur Rangachari:Gogumal Kishenchand:Kanwar Rai Singh
+<6>:Rajasthan:Bihar:Punjab:Andhra Pradesh
+<7>:Fort Dansborg:Fort Naarden:Fort Chambray:Fort Santa Katherina
+<8>:Belgium:Italy:Denmark:France
+<9>:Junko Tabei:Wanda Rutkiewicz:Tamae Watanabe:CHantal Mauduit
+<10>:Emilio Palma:James Weddell:Nathaniel Palmer:Charles Wilkes
+<11>:Paul Canning:William Hawkins:Thomas Roe:James Lancaster
+<12>:Laxmi:Parvati:Saraswati:Durga
+<13>:HMS Minden:HMS Cornwallis:HMS Trincomalee:HMS Meanee
+<14>:Cathay Cinema Hall:Fort Canning Park:National University of Singapore:National Gallery of Singapore
+<15>:Shoebill stork:Hoatzin:Shoveler:Galapagos
+<16>:Katha Upanishad:Mundaka Upanishad:Chandogya Upanishad:Taittiriya Upanishad
+<17>:Vera Atkins:Krystyna Skarbek:Julienne Aisner:Jeanne-Marie Renier
+<18>:The Want And Means Of India:The Problem Of The Rupee:National Dividend Of India:The Law And Lawyers
+<19>:Kenya:United Arab Emirates (UAE):Canada:Iran
+<20>:Sally Ride:Valentina Tereshkova:Svetlana Savitskaya:Kathryn D Sullivan

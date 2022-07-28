@@ -1,0 +1,20 @@
+<1>:Jharkhand:Odisha:Bihar:West Bengal
+<2>:Salat:Zakat:Hadith:Hajj
+<3>:Mercury:Venus:Mars:Jupiter
+<4>:Jyotiraditya Scindia:Varun Gandhi:Supriya Sule:Poonam Mahajan
+<5>:Assam:Nagaland:Mizoram:Arunachal Pradesh
+<6>:Rajasthan:Odisha:Chhatisgarh:Tripura
+<7>:Himalaya:Mid ocean ridge:Andes:Trans Antarctic mountain
+<8>:Harry S Truman:Herbert Hoover:Kelvin Coolidge:Franklin D Roosevelt
+<9>:Sri Rama:Sri Krishna:King Harishchandra:Bhishma
+<10>:Naa kahu se dosti:Maange sabki khair:Kabira khada Bazaar mein:Na kahu se bair
+<11>:Tamil Nadu:Rajasthan:West Bengal:Haryana
+<12>:Shbutring-Levy 9:Levy-9:Shoemaker -Levy 7:Shoemaker -Levy 9
+<13>:Russia:Turkey:Ukraine:Kazakhstan
+<14>:Sushma Swaraj:Mayawati:Pratibha Patil:Nirmala Sitharaman
+<15>:Rewa:Cooch Behar:Tripura:Mayurbhanj
+<16>:Bhishma:Dronacharya:Karna:Shalya
+<17>:Hardik Singh:Manpreet Singh:P R Sreejesh:Sardar Singh
+<18>:Anju Bobby George:Pullela Gopichand:Geet Sethi:Bhaichung Bhutia
+<19>:Nana Devi Parvat:Goverdhana Parvat:Rishyamukh Parvat:Girnar Parvat
+<20>:Marriages:Professions:Literary Texts:Warrior uniforms
